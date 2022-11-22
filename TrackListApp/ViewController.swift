@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  TrackListApp
-//
-//  Created by Дмитрий on 22.11.2022.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
